@@ -33,6 +33,5 @@ until player1.life_points <= 0 || player2.life_points <= 0
   round += 1
 end
 
-# if player1.life_points == 0
 
   binding.pry
